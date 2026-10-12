@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Masoom 👋
 
-<!--
-**masoom123452/masoom123452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web & App Developer from India. I build websites and mobile apps using modern tools.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- WordPress, WooCommerce
+- FlutterFlow (No-Code App Development)
+- HTML, CSS, JavaScript
+- AI App Builders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [fashionzom](https://github.com/masoom123452/fashionzom) — Fashion design website
+- [fashionzoom.com](https://github.com/masoom123452/fashionzoom.com) — HTML website
+- [DevPushpraj](https://github.com/masoom123452/DevPushpraj) — Developer Portfolio
+
+## 📫 Contact
+- 📧 Email: devpushpraj5@gmail.com
+- 🌐 Portfolio: [my-digital-web-store.wuaze.com](https://my-digital-web-store.wuaze.com)
+
+## 💼 Available for Freelance Projects
+I'm currently open to freelance work. Feel free to reach out via email.
